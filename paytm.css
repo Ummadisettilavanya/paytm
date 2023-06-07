@@ -1,7 +1,7 @@
 *{
     box-sizing: border-box;
 }
-.navbar a{
+.nav a{
     text-decoration: none;
     color:black;
     margin-left:3%;
@@ -38,7 +38,7 @@ body{
     font-family: 'Noto Sans KR', sans-serif;
 
 }
-.navbar img{
+.nav img{
     margin-right:7%;
     vertical-align: middle;
 }
